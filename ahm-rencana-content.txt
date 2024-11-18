@@ -3,7 +3,9 @@ RENCANA KONTEN AHM
 - Javascript
   *  ES6
   *  Framework Javascript
-- struktur Data Dasar
+     ^ Angular
+     ^ React
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
