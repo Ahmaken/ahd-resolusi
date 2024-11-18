@@ -3,7 +3,10 @@ RENCANA KONTEN AHM
 - Javascript
   *  ES6
   *  Framework Javascript
+     ^ Vue
 - struktur Data Dasar
 - PHP Frameworks
+  ^ raravel
 - Interview
 - Vlogs
+- Python
