@@ -5,9 +5,9 @@ RENCANA KONTEN AHM
   *  Framework Javascript
      ^ Vue
      ^ React
-- struktur Data Dasar
+- Struktur Data Dasar
 - PHP Frameworks
-  ^ raravel
+  ^ Laravel
 - Interview
 - Vlogs
 - Python
