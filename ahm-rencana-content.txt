@@ -4,6 +4,7 @@ RENCANA KONTEN AHM
   *  ES6
   *  Framework Javascript
      ^ Vue
+     ^ React
 - struktur Data Dasar
 - PHP Frameworks
   ^ raravel
